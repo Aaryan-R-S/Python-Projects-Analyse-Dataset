@@ -76,7 +76,7 @@ To get a local copy up and running follow these simple steps.
    ```
 - Python Modules
   - `pip install pandas`
-  - `pip install pandas_profiling` 
+  - `pip install pandas-profiling` 
 
 <!-- ROADMAP -->
 ## Roadmap
