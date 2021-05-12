@@ -1,7 +1,7 @@
 <!-- PROJECT LOGO -->
 <br />
 <p align="center">
-  <a href="https://aaryan-r-s.github.io/Python-Projects-Analyse-Dataset">
+  <a>
     <img src="readme-images/logo.png" alt="Logo" width="80" height="80">
   </a>
 
@@ -116,4 +116,4 @@ Email ID - aaryan20004@iiitd.ac.in
 
 
 <!-- MARKDOWN LINKS & IMAGES -->
-[product-screenshot]: readme-images/screenshot.png
+[product-screenshot]: readme-images/ss.png
